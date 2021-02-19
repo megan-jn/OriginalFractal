@@ -12,7 +12,9 @@ body {
 }
 
 header {
-	
+	color: rgb(246, 255, 212);
+    	font-family: 'Space Grotesk', sans-serif;
+    	text-align: center;
 }
 
 footer {
